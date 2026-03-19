@@ -73,19 +73,20 @@ Dataset com inserção de anomalias em 3% dos registros.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Matheus-Silveiraa/Aurora-Siger
 ```
 
 2. Acesse a pasta:
 
 ```bash
-cd seu-repositorio
+cd Aurora-Siger
 ```
 
 3. Execute o script de geração dos dados:
 
 ```bash
-python gerar_dataset.py
+python telemetry.py
+python telemetry_anomalys.py
 ```
 
 4. Execute o analisador:
