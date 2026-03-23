@@ -95,6 +95,11 @@ python telemetry_anomalys.py
 python relatorio.py
 ```
 
+## Execução do codigo
+
+<img width="502" height="501" alt="image" src="https://github.com/user-attachments/assets/cf46050b-2f2a-4771-9ce9-b244a58e105d" />
+
+
 ---
 
 ## 📈 Exemplo de Saída
